@@ -2,7 +2,7 @@
 
 - 🔭 I'm interested in the application of computational methods to investigate our digital lives, particularly the experiences of young people growing up online
 - 🥁 MSc Thesis: A Study on Performativity of Recommender Systems on YouTube
-- 🌱 I'm currently working on research for Meta into competition in generative AI foundation models
+- 🌱 I'm currently working on building Generative AI for a telecoms provider
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sophiehiscock/)
 
 #### Professional Experience
